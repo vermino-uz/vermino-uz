@@ -4,7 +4,7 @@
 
 <hr>
 
-<h2>🎯 2025 Goals</h2>
+<h2>🎯 2026 Goals</h2>
 <ul>
   <li>🚀 Master advanced <strong>Laravel</strong> architecture patterns and best practices</li>
   <li>🌟 Create <strong>open-source projects</strong> for the developer community</li>
