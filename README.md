@@ -1,4 +1,4 @@
-# Hi 👋 **I'm Shukurullayev (vermino) Elbek **
+# Hi 👋 **I'm** **Shukurullayev** (vermino) **Elbek**
 
 **Full Stack • Mobile • Cloud & DevOps Engineer**
 
