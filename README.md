@@ -1,79 +1,143 @@
-﻿<h1>Assalamu Alaikum, I'm <a href="https://t.me/vermino">Elbek Shukurullayev</a>!</h1>
+# Hi there 👋 I'm **vermino-uz**
 
-<p>I'm a <strong>Backend Developer</strong> specializing in <strong>Laravel</strong>, with experience in <strong>DevOps</strong>, <strong>Docker</strong>, and <strong>Linux</strong>. Building systems for any purpose. CRM, ERP, E-commerce, POS or Business Automation. My passion is building scalable, high-performance applications and contributing to the open-source ecosystem.</p>
+## 🚀 Full Stack • Mobile • Cloud & DevOps Engineer
 
-<hr>
+I'm a software engineer passionate about building scalable products, modern web applications, mobile apps, and cloud infrastructure.
 
-<h2>🎯 2026 Goals</h2>
-<ul>
-  <li>🚀 Master advanced <strong>Laravel</strong> architecture patterns and best practices</li>
-  <li>🌟 Create <strong>open-source projects</strong> for the developer community</li>
-  <li>⚡ Dive deep into <strong>high-performance computing</strong> and system optimization</li>
-  <li>Mobile App Development using PHP and Laravel</li>
-</ul>
+My primary focus is creating reliable backend systems with **PHP, Go, and Python**, building fast and responsive frontends with **Next.js, React, and Svelte**, and automating development workflows using modern AI coding tools.
 
-<hr>
+> *Build fast. Automate everything. Ship quality.*
 
-<h2>💻 Tech Arsenal</h2>
-<p><strong>Core Expertise:</strong></p>
-<ul>
-  <li>⚡ Laravel & PHP Ecosystem & Flutter</li>
-  <li>🛠️ MySQL, PostgreSQL</li>
-  <li>⛓️ Blockchain & Cryptocurrency Development</li>
-  <li>🎨 Figma, Adobe Photoshop, Adobe Illustrator</li>
-  <li>🔄 RESTful APIs</li>
-</ul>
+---
 
-<p><strong>Infrastructure & DevOps:</strong></p>
-<ul>
-  <li>🐳 Docker & Container Orchestration</li>
-  <li>🐧 Linux System Administration</li>
-  <li>🌐 Nginx, Apache, Load Balancing</li>
-  <li>⛓️ Blockchain & Cryptocurrency Development</li>
-  <li>☁️ Cloud Services & Deployment</li>
-</ul>
+## 💻 Tech Stack
 
-<p><strong>Development Tools:</strong></p>
-<ul>
-  <li>📊 Git Flow & Version Control</li>
-  <li>🔒 Application Security</li>
-  <li>🤖 Automation & Scripting</li>
-  <li>🧪 Testing & Quality Assurance</li>
-</ul>
+### Backend
 
-<hr>
+* 🐘 PHP
+* 🐹 Go
+* 🐍 Python
+* Node.js
+* REST APIs
+* GraphQL
+* Microservices
 
-<h2>🌟 Featured Projects</h2>
+### Frontend
 
-- **[*Buypin*](https://t.me/buypin_bot)**: A comprehensive backend system and admin panel for purchasing game currencies and items through Telegram bot. Built with Laravel and Filament, featuring payment integration, user management, automated order processing, and extensive API endpoints. Includes role-based admin controls, transaction monitoring, and real-time bot notifications.
+* ⚛️ React
+* ▲ Next.js
+* 🔥 Svelte
+* TypeScript
+* JavaScript
+* Tailwind CSS
 
-- **[*PMXC*](https://github.com/vermino-uz/pmxc)**: A Python-based client library for interacting with the Proxmox VE API. Provides a clean, Pythonic interface to Proxmox's REST API endpoints for managing virtual machines, containers, storage, and cluster resources. Features async support, comprehensive error handling, and automated authentication management. Includes detailed documentation and usage examples.
+### Mobile
 
-- **[ChingizGolosBot](https://t.me/chingizgolosbot)**: A popular Telegram bot with over 700,000 users for discovering trending voice messages and audio content. Features a robust admin panel built with Laravel Filament for content moderation, user management, and analytics tracking. Includes automated trending detection, comprehensive search functionality, and detailed usage statistics.
+* Flutter
+* React Native
 
-<hr>
+### Databases
 
-<h2>🤝 Let's Connect</h2>
-<div align="center">
-  <a href="https://t.me/vermino"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="40" height="40" style="margin: 0 10px;"></a>
-  <a href="https://instagram.com/saturian_boy"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" height="40" style="margin: 0 10px;"></a>
-</div>
+* PostgreSQL
+* MySQL
+* MongoDB
+* Redis
 
-<hr>
+### Cloud & DevOps
 
-<h2>📊 Development Metrics</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermino-uz&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vermino-uz&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+* Docker
+* Kubernetes
+* AWS
+* Google Cloud
+* Azure
+* Linux
+* Nginx
+* GitHub Actions
+* CI/CD
+* Terraform
 
-<p align="center">⚡ <strong>Weekly Coding Stats:</strong></p>
+### AI Development
+
+* Claude Code
+* OpenAI Codex
+* Cursor
+* AI Agents
+* Workflow Automation
+* LLM Integration
+* Prompt Engineering
+
+---
+
+## 🚀 What I Enjoy Building
+
+* High-performance backend services
+* Modern web applications
+* Cross-platform mobile apps
+* Cloud-native infrastructure
+* AI-powered developer tools
+* Automation pipelines
+* Developer platforms
+* API-first architectures
+
+---
+
+## 🤖 AI-First Development
+
+I actively leverage AI agents to accelerate software development, automate repetitive tasks, and improve engineering productivity.
+
+Experienced with:
+
+* Claude Code
+* OpenAI Codex
+* Cursor
+* AI-assisted refactoring
+* Autonomous coding workflows
+* Agent-based development
+* LLM integration into applications
+
+I believe AI enhances developers rather than replacing them—allowing more time to focus on architecture, problem solving, and delivering value.
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://wakatime.com/badge/user/155950c3-05de-4747-8d5c-a23f99f7da30.svg" alt="WakaTime" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vermino-uz&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermino-uz&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<hr>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vermino-uz&theme=tokyonight&hide_border=true" />
+</p>
 
-<blockquote align="center">
-  "Code is poetry, infrastructure is art, and continuous learning is the key to mastery." 🚀
-</blockquote>
+---
+
+## 🌱 Currently Exploring
+
+* AI Agents & Autonomous Development
+* Distributed Systems
+* Kubernetes at Scale
+* Platform Engineering
+* Cloud Architecture
+* High-performance Go Services
+* Modern PHP Ecosystem
+* Production AI Applications
+
+---
+
+## 📫 Let's Build Something Great
+
+I'm always interested in collaborating on:
+
+* Open Source
+* Developer Tools
+* AI Applications
+* SaaS Platforms
+* Cloud Infrastructure
+* Full Stack Products
+
+If you're building something interesting, feel free to connect.
+
+---
+
+> **"Write less boilerplate. Build more products. Automate the rest."**
